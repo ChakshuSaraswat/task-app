@@ -1,0 +1,25 @@
+{
+    "name": "web-server",
+    "version": "1.0.0",
+    "main": "src/app.js",
+    "scripts": {
+        "start": "node src/app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "hbs": "^4.1.1",
+        "request": "^2.88.2"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ChakshuSaraswat/node-weather-app.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ChakshuSaraswat/node-weather-app/issues"
+    },
+    "homepage": "https://github.com/ChakshuSaraswat/node-weather-app#readme",
+    "description": ""
+}
